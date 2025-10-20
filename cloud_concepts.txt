@@ -1,0 +1,25 @@
+IaaS (Infrastructure as a Service)
+
+Provides virtualized hardware resources (e.g., servers, storage).
+
+Example: AWS EC2, Google Compute Engine.
+
+PaaS (Platform as a Service)
+
+Provides a platform to develop, run, and manage applications.
+
+Example: Google App Engine, Microsoft Azure App Service.
+
+SaaS (Software as a Service)
+
+Provides software applications over the internet.
+
+Example: Gmail, Google Docs, Salesforce.
+
+
+
+Public Cloud – Services offered over the public internet (e.g., AWS, Azure).
+
+Private Cloud – Dedicated infrastructure for one organization.
+
+Hybrid Cloud – Combination of public and private clouds.
